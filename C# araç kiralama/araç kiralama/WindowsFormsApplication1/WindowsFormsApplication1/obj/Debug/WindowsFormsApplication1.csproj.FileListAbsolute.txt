@@ -1,0 +1,103 @@
+C:\Users\erayb\OneDrive\Masaüstü\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\erayb\OneDrive\Masaüstü\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\erayb\OneDrive\Masaüstü\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\erayb\OneDrive\Masaüstü\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\erayb\OneDrive\Masaüstü\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Anasayfa.resources
+C:\Users\erayb\OneDrive\Masaüstü\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMüşteriEkleme.resources
+C:\Users\erayb\OneDrive\Masaüstü\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GirisPaneli.resources
+C:\Users\erayb\OneDrive\Masaüstü\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\erayb\OneDrive\Masaüstü\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\erayb\OneDrive\Masaüstü\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\erayb\OneDrive\Masaüstü\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\erayb\OneDrive\Masaüstü\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMüsteriListeleme.resources
+C:\Users\erayb\OneDrive\Masaüstü\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmArackayit.resources
+C:\Users\erayb\OneDrive\Masaüstü\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmAracListeleme.resources
+C:\Users\erayb\OneDrive\Masaüstü\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMusteriSozlesme.resources
+C:\Users\erayb\OneDrive\Masaüstü\Yeni klasör\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MySql.Data.dll
+C:\Users\erayb\OneDrive\Masaüstü\Yeni klasör - Kopya\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\erayb\OneDrive\Masaüstü\Yeni klasör - Kopya\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\erayb\OneDrive\Masaüstü\Yeni klasör - Kopya\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\erayb\OneDrive\Masaüstü\Yeni klasör - Kopya\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\erayb\OneDrive\Masaüstü\Yeni klasör - Kopya\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Anasayfa.resources
+C:\Users\erayb\OneDrive\Masaüstü\Yeni klasör - Kopya\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmArackayit.resources
+C:\Users\erayb\OneDrive\Masaüstü\Yeni klasör - Kopya\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmAracListeleme.resources
+C:\Users\erayb\OneDrive\Masaüstü\Yeni klasör - Kopya\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMusteriSozlesme.resources
+C:\Users\erayb\OneDrive\Masaüstü\Yeni klasör - Kopya\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMüsteriListeleme.resources
+C:\Users\erayb\OneDrive\Masaüstü\Yeni klasör - Kopya\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GirisPaneli.resources
+C:\Users\erayb\OneDrive\Masaüstü\Yeni klasör - Kopya\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\erayb\OneDrive\Masaüstü\Yeni klasör - Kopya\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\erayb\OneDrive\Masaüstü\Yeni klasör - Kopya\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\erayb\OneDrive\Masaüstü\Yeni klasör - Kopya\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\erayb\OneDrive\Masaüstü\Yeni klasör - Kopya\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MySql.Data.dll
+C:\Users\erayb\OneDrive\Masaüstü\Yeni klasör - Kopya - Kopya\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\erayb\OneDrive\Masaüstü\Yeni klasör - Kopya - Kopya\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\erayb\OneDrive\Masaüstü\Yeni klasör - Kopya - Kopya\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\erayb\OneDrive\Masaüstü\Yeni klasör - Kopya - Kopya\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\erayb\OneDrive\Masaüstü\Yeni klasör - Kopya - Kopya\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\erayb\OneDrive\Masaüstü\Yeni klasör - Kopya - Kopya\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MySql.Data.dll
+C:\Users\erayb\OneDrive\Masaüstü\Yeni klasör - Kopya - Kopya\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\erayb\OneDrive\Masaüstü\Yeni klasör - Kopya - Kopya\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Anasayfa.resources
+C:\Users\erayb\OneDrive\Masaüstü\Yeni klasör - Kopya - Kopya\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmArackayit.resources
+C:\Users\erayb\OneDrive\Masaüstü\Yeni klasör - Kopya - Kopya\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmAracListeleme.resources
+C:\Users\erayb\OneDrive\Masaüstü\Yeni klasör - Kopya - Kopya\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMusteriSozlesme.resources
+C:\Users\erayb\OneDrive\Masaüstü\Yeni klasör - Kopya - Kopya\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMüsteriListeleme.resources
+C:\Users\erayb\OneDrive\Masaüstü\Yeni klasör - Kopya - Kopya\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GirisPaneli.resources
+C:\Users\erayb\OneDrive\Masaüstü\Yeni klasör - Kopya - Kopya\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\erayb\OneDrive\Masaüstü\Yeni klasör - Kopya - Kopya\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\erayb\OneDrive\Masaüstü\Yeni klasör - Kopya - Kopya - Kopya\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\erayb\OneDrive\Masaüstü\Yeni klasör - Kopya - Kopya - Kopya\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\erayb\OneDrive\Masaüstü\Yeni klasör - Kopya - Kopya - Kopya\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\erayb\OneDrive\Masaüstü\Yeni klasör - Kopya - Kopya - Kopya\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\erayb\OneDrive\Masaüstü\Yeni klasör - Kopya - Kopya - Kopya\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\erayb\OneDrive\Masaüstü\Yeni klasör - Kopya - Kopya - Kopya\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MySql.Data.dll
+C:\Users\erayb\OneDrive\Masaüstü\Yeni klasör - Kopya - Kopya - Kopya\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\erayb\OneDrive\Masaüstü\Yeni klasör - Kopya - Kopya - Kopya\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Anasayfa.resources
+C:\Users\erayb\OneDrive\Masaüstü\Yeni klasör - Kopya - Kopya - Kopya\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmArackayit.resources
+C:\Users\erayb\OneDrive\Masaüstü\Yeni klasör - Kopya - Kopya - Kopya\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmAracListeleme.resources
+C:\Users\erayb\OneDrive\Masaüstü\Yeni klasör - Kopya - Kopya - Kopya\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMusteriSozlesme.resources
+C:\Users\erayb\OneDrive\Masaüstü\Yeni klasör - Kopya - Kopya - Kopya\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMüsteriListeleme.resources
+C:\Users\erayb\OneDrive\Masaüstü\Yeni klasör - Kopya - Kopya - Kopya\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GirisPaneli.resources
+C:\Users\erayb\OneDrive\Masaüstü\Yeni klasör - Kopya - Kopya - Kopya\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\erayb\OneDrive\Masaüstü\Yeni klasör - Kopya - Kopya - Kopya\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\erayb\OneDrive\Masaüstü\22720690074 - ERAY BALABAN\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\erayb\OneDrive\Masaüstü\22720690074 - ERAY BALABAN\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\erayb\OneDrive\Masaüstü\22720690074 - ERAY BALABAN\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\erayb\OneDrive\Masaüstü\22720690074 - ERAY BALABAN\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\erayb\OneDrive\Masaüstü\22720690074 - ERAY BALABAN\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\erayb\OneDrive\Masaüstü\22720690074 - ERAY BALABAN\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MySql.Data.dll
+C:\Users\erayb\OneDrive\Masaüstü\22720690074 - ERAY BALABAN\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\erayb\OneDrive\Masaüstü\22720690074 - ERAY BALABAN\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Anasayfa.resources
+C:\Users\erayb\OneDrive\Masaüstü\22720690074 - ERAY BALABAN\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmArackayit.resources
+C:\Users\erayb\OneDrive\Masaüstü\22720690074 - ERAY BALABAN\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmAracListeleme.resources
+C:\Users\erayb\OneDrive\Masaüstü\22720690074 - ERAY BALABAN\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMusteriSozlesme.resources
+C:\Users\erayb\OneDrive\Masaüstü\22720690074 - ERAY BALABAN\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMüsteriListeleme.resources
+C:\Users\erayb\OneDrive\Masaüstü\22720690074 - ERAY BALABAN\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GirisPaneli.resources
+C:\Users\erayb\OneDrive\Masaüstü\22720690074 - ERAY BALABAN\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\erayb\OneDrive\Masaüstü\22720690074 - ERAY BALABAN\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\erayb\OneDrive\Masaüstü\22720690074 - ERAY BALABAN\22720690074 - ERAY BALABAN\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\erayb\OneDrive\Masaüstü\22720690074 - ERAY BALABAN\22720690074 - ERAY BALABAN\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\erayb\OneDrive\Masaüstü\22720690074 - ERAY BALABAN\22720690074 - ERAY BALABAN\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\erayb\OneDrive\Masaüstü\22720690074 - ERAY BALABAN\22720690074 - ERAY BALABAN\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\erayb\OneDrive\Masaüstü\22720690074 - ERAY BALABAN\22720690074 - ERAY BALABAN\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\erayb\OneDrive\Masaüstü\22720690074 - ERAY BALABAN\22720690074 - ERAY BALABAN\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MySql.Data.dll
+C:\Users\erayb\OneDrive\Masaüstü\22720690074 - ERAY BALABAN\22720690074 - ERAY BALABAN\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\erayb\OneDrive\Masaüstü\22720690074 - ERAY BALABAN\22720690074 - ERAY BALABAN\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Anasayfa.resources
+C:\Users\erayb\OneDrive\Masaüstü\22720690074 - ERAY BALABAN\22720690074 - ERAY BALABAN\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmArackayit.resources
+C:\Users\erayb\OneDrive\Masaüstü\22720690074 - ERAY BALABAN\22720690074 - ERAY BALABAN\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmAracListeleme.resources
+C:\Users\erayb\OneDrive\Masaüstü\22720690074 - ERAY BALABAN\22720690074 - ERAY BALABAN\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMusteriSozlesme.resources
+C:\Users\erayb\OneDrive\Masaüstü\22720690074 - ERAY BALABAN\22720690074 - ERAY BALABAN\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMüsteriListeleme.resources
+C:\Users\erayb\OneDrive\Masaüstü\22720690074 - ERAY BALABAN\22720690074 - ERAY BALABAN\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GirisPaneli.resources
+C:\Users\erayb\OneDrive\Masaüstü\22720690074 - ERAY BALABAN\22720690074 - ERAY BALABAN\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\erayb\OneDrive\Masaüstü\22720690074 - ERAY BALABAN\22720690074 - ERAY BALABAN\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Alican Berk\Desktop\22720690074 - ERAY BALABAN\22720690074 - ERAY BALABAN\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Alican Berk\Desktop\22720690074 - ERAY BALABAN\22720690074 - ERAY BALABAN\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Alican Berk\Desktop\22720690074 - ERAY BALABAN\22720690074 - ERAY BALABAN\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Alican Berk\Desktop\22720690074 - ERAY BALABAN\22720690074 - ERAY BALABAN\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Alican Berk\Desktop\22720690074 - ERAY BALABAN\22720690074 - ERAY BALABAN\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Anasayfa.resources
+C:\Users\Alican Berk\Desktop\22720690074 - ERAY BALABAN\22720690074 - ERAY BALABAN\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmArackayit.resources
+C:\Users\Alican Berk\Desktop\22720690074 - ERAY BALABAN\22720690074 - ERAY BALABAN\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmAracListeleme.resources
+C:\Users\Alican Berk\Desktop\22720690074 - ERAY BALABAN\22720690074 - ERAY BALABAN\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMusteriSozlesme.resources
+C:\Users\Alican Berk\Desktop\22720690074 - ERAY BALABAN\22720690074 - ERAY BALABAN\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMüsteriListeleme.resources
+C:\Users\Alican Berk\Desktop\22720690074 - ERAY BALABAN\22720690074 - ERAY BALABAN\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GirisPaneli.resources
+C:\Users\Alican Berk\Desktop\22720690074 - ERAY BALABAN\22720690074 - ERAY BALABAN\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Alican Berk\Desktop\22720690074 - ERAY BALABAN\22720690074 - ERAY BALABAN\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache

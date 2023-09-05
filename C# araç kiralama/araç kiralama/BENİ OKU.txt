@@ -1,0 +1,30 @@
+SİSTEM ANALİZİ VE TASARIMI PROJE ÖDEVİ 
+Öğrenci Bilgilerim:
+Eray BALABAN
+22720690074
+
+Projede ilk adım GirisPaneli'dir ve ;
+KULLANICI ADI:admin
+ŞİFRESİ:1234 'tür ..!
+
+Otomasyonumuz da bulunan formlar;
+-Giriş Paneli
+-Müşteri Ekleme/Listeleme Paneli
+-Araç Kayıt Paneli
+-Araç Listeleme(Araç Durum Güncelleme) Paneli
+Son olarak müşteri sözleşmesinin yapılacağı
+-Sözleşme Paneli
+
+Programın Tanıtımı
+Kiralama otomasyonumuz da ilk olarak veritabanı ile aynı ada sahip bir veritabanı açılır,
+Ardından dosyamızda ki veritabanı açtığımız dosyaya import edilir.
+Giris panelin de belirtilen kullanıcı adı ve şifre ile giriş yaptıktan sonra istediğimiz işlemi gerçekleştirebiliriz. 
+
+Bağlantılar için XAMPP programı çalıştırılır.
+MySql start edilir.
+MySql bilgisayar menüsünden bulunup çalıştırılır ve localhost bağlantısı onaylanır.
+Visual Studio proje dosyası açılır ve start edilir.
+
+Ödevi Visual Studio 2015, mysql ve C# dilini kullanarak yaptım.
+
+Teşekkürler. Eray BALABAN - 22720690074
